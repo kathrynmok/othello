@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Mokhov
+comment0.text=\n\ Test\ player\n
+comment1.params=color
+comment1.target=Mokhov(int)
+comment1.text=\n\ Constructor\n\ @param\ name\ Player's\ name\n\ @param\ color\ Player\ color\:\ one\ of\ Constants.BLACK\ or\ Constants.WHITE\n
+comment2.params=board
+comment2.target=com.mrjaffesclass.othello.Position\ getNextMove(com.mrjaffesclass.othello.Board)
+comment2.text=\n\n\ @param\ board\n\ @return\ The\ player's\ next\ move\n
+comment3.params=board\ positionToCheck
+comment3.target=boolean\ isLegalMove(com.mrjaffesclass.othello.Board,\ com.mrjaffesclass.othello.Position)
+comment4.params=board\ position\ direction\ count
+comment4.target=boolean\ step(com.mrjaffesclass.othello.Board,\ com.mrjaffesclass.othello.Position,\ com.mrjaffesclass.othello.Position,\ int)
+comment5.params=board
+comment5.target=java.util.ArrayList\ getLegalMoves(com.mrjaffesclass.othello.Board)
+comment6.params=b
+comment6.target=com.mrjaffesclass.othello.Board\ copyBoard(com.mrjaffesclass.othello.Board)
+numComments=7
